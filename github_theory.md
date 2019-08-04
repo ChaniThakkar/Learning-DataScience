@@ -46,4 +46,7 @@ push the changes from local machine to github repo
 Push the master branch to origin remote (github repository) to github
 
 git push origin master - 
+
+Link to refer -  https://www.dataschool.io/git-quick-reference-for-beginners/
+
 -------------------------------------------------------------------------
